@@ -1,0 +1,27 @@
+- name: Rob Phillips
+  email: phillips@pboc.caltech.edu
+  role: Instructor
+  image: rob2.png
+  link: http://www.rpgroup.caltech.edu
+  pronouns: he/him
+
+- name: Jane Kondev
+  email: kondev@brandeis.edu
+  role: Instructor
+  image: kondev.jpg
+  link: https://people.brandeis.edu/~kondev/
+  pronouns: he/him
+
+- name: Ana Duarte
+  email: aduarte@caltech.edu
+  image: aduarte.jpg
+  role: Teaching Assistant
+  pronouns: she/her
+
+- name: Kian Faizi
+  email: kian@caltech.edu
+  image: kfaizi.jpg
+  role: Teaching Assistant
+  link: https://www.kianfaizi.com
+  pronouns: he/him
+
