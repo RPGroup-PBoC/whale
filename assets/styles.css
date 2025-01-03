@@ -1,0 +1,181 @@
+:root {
+  /* --text-color: #333; */
+  --background-color: #FCFED9;
+  --link-color: rgb(37, 117, 193);
+  --visited-link-color: #551A8B;
+  --label-color: rgb(49, 40, 33);
+  --accent-color: #cdcac4;
+  /* font-feature-settings: "liga" 0; */
+  /* --fonts: "IBM Plex Mono", monospace; */
+  /* --display-fonts: "Silkscreen", sans-serif; */
+}
+
+/* ::selection {
+  background-color: black;
+  color: white;
+} */
+
+
+html {
+  margin: 40px auto;
+  max-width: 80%;
+}
+
+html, body {
+  background-color: var(--background-color);
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  font-style: italic;
+}
+
+body {
+  font-family: "Libre Baskerville", serif;
+  font-size: 16px;
+  line-height: 1.5em;
+  font-weight: normal;
+  margin: 20px 100px;
+}
+
+.whale-diagram {
+  position: relative;
+  width: 1000px;
+  margin: 0 auto;
+  background-color: var(--background-color);
+}
+
+.whale-diagram img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+nav {
+  padding-bottom: 5px;
+  text-align: right;
+}
+
+a {
+  color: var(--link-color);
+}
+
+a:hover {
+  text-decoration-style: double;
+}
+
+a:visited {
+  color: var(--visited-link-color);
+}
+
+nav a:visited {
+  color: var(--link-color);
+}
+
+/* generic link style for labels */
+.whale-label {
+  position: absolute;
+  padding: 3px 6px;
+  font-family: "Libre Baskerville";
+  font-size: 18px;
+  font-weight: 600;
+  font-style: italic;
+  color: var(--label-color);
+  text-decoration: underline;
+}
+
+/* .whale-label:hover {
+  background-color: rgba(37, 117, 193, 0.5);
+} */
+
+.whale-label:visited {
+  color: var(--label-color);
+}
+
+.label-head {
+  top: 13%;
+  left: 9%;
+}
+
+.label-mouth {
+  top: 79%;
+  left: 22%;
+}
+
+.label-pectoral {
+  top: 70%;
+  left: 50%;
+}
+
+.label-dorsal {
+  top: 4.5%;
+  left: 79%;
+}
+
+.label-fluke {
+  top: 78%;
+  left: 76%;
+}
+
+code {
+  font-family: "IBM Plex Mono", monospace;
+}
+
+#im {
+  width: 250px;
+	display: inline-flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-around;
+}
+
+#im img {
+  border: 1px solid #000000;
+  max-width: 200px;
+}
+
+/* tables */
+
+table {
+	/* max-width: 80%; */
+	margin: 10px;
+	border-collapse: collapse;
+}
+
+th {
+	text-align: center;
+	background-color: var(--accent-color);
+	padding: 5px 10px;
+}
+
+tr {
+	-transition:.2s;
+	-ms-transition:.2s;
+	-moz-transition:.2s;
+	-webkit-transition:.2s;
+	transition:.2s;
+}
+
+/* tr:nth-child(even){
+  background-color: #e6e8d7;
+} */
+
+tr:hover {
+	background-color: #333;
+  color: white;
+	-transition:.2s;
+	-ms-transition:.2s;
+	-moz-transition:.2s;
+	-webkit-transition:.2s;
+	transition:.2s;
+}
+
+td {
+	padding: 5px 10px;
+	max-width: 1000px;
+}
+
+th, td {
+  border: 1px solid #333;
+}

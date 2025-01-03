@@ -2,28 +2,8 @@
 layout: default
 ---
 
-<div class="content" id="home">
-    <div id="sidebar-button">
-        <img src="{{ site.baseurl }}/assets/images/sidebar-button.png">
-    </div>
-    <div id="post-info">
-        <div id="cover-photo-container">
-            <img id="cover-photo" width="1115px" height="200px;" src="{{ site.baseurl }}/assets/images/{{ page.cover }}">
-        </div>
-        <h1 id="title">
-            <span>{{ page.title }}</span>
-        </h1>
-        <div id="info-container">
-        </div>
-    </div>
+<nav>
+    <a href="{{site.baseurl}}/index">back to home</a>
+</nav>
 
-    <div class="post">
-        {{ content }}
-    </div>
-    
-    <div class="colophon">
-        <p>
-        </p>
-    </div>
-</div>
-
+{{ content }}
