@@ -5,9 +5,11 @@ title: Readings
 
 # IV. Readings
 
-Links to interesting papers will be posted here as the course progresses.
+Throughout the course, we will frequently encounter relevant literature, new and old.
+Although we won't have time to discuss all of it in detail, we'll post links to these readings here for your own perusal.
+(If you find something interesting that we haven't listed here, let us know!)
 
-<!-- {% assign readings = site.data.papers %}
+{% assign readings = site.data.papers %}
 
 {% for day in readings %}
 
@@ -15,14 +17,14 @@ Links to interesting papers will be posted here as the course progresses.
 
 {% for p in day[1] %}
 {% if p.link != None %}
-[{{ p.title }}]({{ p.link }}) by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
+* [{{ p.title }}]({{ p.link }}) by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
 {% elsif p.PDF != None %}
-[{{ p.title }}]({{ site.baseurl }}/papers/{{ p.PDF }}) by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
+* [{{ p.title }}]({{ site.baseurl }}/papers/{{ p.PDF }}) by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
 {% else %}
-{{p.title}} by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
+* {{p.title}} by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
 {% endif %}
 {% endfor %}
-{% endfor %} -->
+{% endfor %}
 
 ## Preliminary reading
 
