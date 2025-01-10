@@ -47,6 +47,8 @@ All of them come highly recommended, and in at least one case, you will even hav
 
 * [Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving](https://sept.mit.edu/sites/default/files/Streetfighting%20Mathematics.pdf). This excellent free book by Sanjoy Mahajan (a Caltech alum!) teaches order-of-magnitude estimation in the same style that we will employ throughout the course. Essential reading for those curious to explore more advanced techniques than those we will cover.
 
+* [Order-of-Magnitude Physics: A Textbook with Applications to the Retinal Rod and to the Density of Prime Numbers](https://thesis.library.caltech.edu/5338/1/Mahajan_s_1998.pdf). Mahajan's original Caltech PhD thesis, which later evolved into another excellent free textbook.
+
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), MIT
 
 * [Be/Bi 103: Data Analysis in the Biological Sciences](http://www.bebi103.caltech.edu), Justin Bois/Caltech
