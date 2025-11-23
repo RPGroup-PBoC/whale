@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: 2025_post
 title: About
+permalink: /2025/about
 ---
 
 # I. About

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: 2025_post
 title: Homework
+permalink: /2025/homework
 ---
 
 # III. Homework

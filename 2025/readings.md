@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: 2025_post
 title: Readings
+permalink: /2025/readings
 ---
 
 # IV. Readings

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: 2025_post
 title: People
+permalink: /2025/people
 ---
 
 # V. People

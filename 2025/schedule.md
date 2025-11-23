@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: 2025_post
 title: Schedule
+permalink: /2025/schedule
 ---
 
 # II. Schedule
