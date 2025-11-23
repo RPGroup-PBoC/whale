@@ -1,9 +1,9 @@
 ---
-layout: 2025_default
-permalink: /2025/index
+layout: 2026_default
+permalink: /2026/index
 ---
 
-**Fig 1: The Whale.** An experimental Spark course offered in winter term 2025 at Caltech.
+**Fig 1: The Whale, 2026.** An experimental E100/Spark course offered in winter term at Caltech. Click the labels for more.
 
 <div class="whale-diagram">
     <img src="whale-diagram-96-cropped.png" alt="whale diagram" />

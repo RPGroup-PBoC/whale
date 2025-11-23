@@ -1,13 +1,13 @@
 ---
-layout: 2025_post
+layout: 2026_post
 title: People
-permalink: /2025/people
+permalink: /2026/people
 ---
 
 # V. People
 
 
-{% for author in site.data.2025.members %}
+{% for author in site.data.2026.members %}
 <div id="im">
     <figure>
         {% if author.link %}
@@ -16,7 +16,7 @@ permalink: /2025/people
         <b> {{ author.name }} </b><br>
         {% endif %}
         <img src="{{ site.baseurl }}/2025/assets/images/people/{{ author.image }}" width="200" height="200"><br>
-        {{ author.role }} ({{ author.pronouns }})<br>
+        {{ author.role }}<br>
         <figcaption>
         <code>{{ author.email }}</code>
         </figcaption>

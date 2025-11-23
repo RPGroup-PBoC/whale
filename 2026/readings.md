@@ -1,7 +1,7 @@
 ---
-layout: 2025_post
+layout: 2026_post
 title: Readings
-permalink: /2025/readings
+permalink: /2026/readings
 ---
 
 # IV. Readings
@@ -10,7 +10,7 @@ Throughout the course, we will frequently encounter relevant literature, new and
 Although we won't have time to discuss all of it in detail, we'll post links to these readings here for your own perusal.
 (If you find something interesting that we haven't listed here, let us know!)
 
-{% assign readings = site.data.2025.papers %}
+{% assign readings = site.data.2026.papers %}
 
 {% for day in readings %}
 
