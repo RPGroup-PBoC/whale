@@ -3,10 +3,18 @@
   role: Instructor
   image: rob2.png
   link: http://www.rpgroup.caltech.edu
+  pronouns: he/him
+
+- name: Tom Röschinger
+  email: tom@caltech.edu
+  image: tom.jpg
+  role: TA
+  pronouns: he/him
 
 - name: Kian Faizi
   email: kian@caltech.edu
   image: kian.jpg
   role: TA
   link: https://www.kianfaizi.com
+  pronouns: he/him
 
