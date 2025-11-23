@@ -15,7 +15,7 @@ title: People
         <b> {{ author.name }} </b><br>
         {% endif %}
         <img src="{{ site.baseurl }}/assets/images/people/{{ author.image }}" width="200" height="200"><br>
-        {{ author.role }} ({{ author.pronouns }})<br>
+        {{ author.role }}<br>
         <figcaption>
         <code>{{ author.email }}</code>
         </figcaption>

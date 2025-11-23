@@ -3,7 +3,8 @@
   --background-color: #FCFED9;
   --link-color: rgb(37, 117, 193);
   --visited-link-color: #551A8B;
-  --label-color: rgb(49, 40, 33);
+  /*--label-color: rgb(49, 40, 33);*/
+  --label-color: white;
   --accent-color: #cdcac4;
   /* font-feature-settings: "liga" 0; */
   /* --fonts: "IBM Plex Mono", monospace; */
@@ -58,7 +59,7 @@ a {
 }
 
 a:hover {
-  text-decoration-style: double;
+  text-decoration-style: dotted;
 }
 
 a:visited {
@@ -79,6 +80,7 @@ nav a:visited {
   font-style: italic;
   color: var(--label-color);
   text-decoration: underline;
+  background: black;
 }
 
 /* .whale-label:hover {
@@ -120,7 +122,7 @@ code {
 
 #im {
   width: 250px;
-	display: inline-flex;
+  display: inline-flex;
   flex-wrap: wrap;
   text-align: center;
   justify-content: space-around;
@@ -158,8 +160,7 @@ tr {
 } */
 
 tr:hover {
-	background-color: #333;
-  color: white;
+	background-color: white;
 	-transition:.2s;
 	-ms-transition:.2s;
 	-moz-transition:.2s;

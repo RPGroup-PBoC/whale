@@ -5,7 +5,10 @@ title: Schedule
 
 # II. Schedule
 
-We meet once per week on Mondays at noon in [Chen 240A](https://www.caltech.edu/map/campus/tianqiao-and-chrissy-chen-neuroscience-research-building).
+We meet once per week on (day) at (time) in (place). 
+Details for each session (including labs and field trips) will be posted here and announced via email as they arise.
+
+(last year's schedule)
 
 | Week | Date | Topic | Notes |
 | -- | -- | -- | -- |
@@ -21,4 +24,3 @@ We meet once per week on Mondays at noon in [Chen 240A](https://www.caltech.edu/
 | 9 | March 10, 2025 | Whales, humans, and ecology. Whaling. Whale poop. Keystone species. Biomass. | |
 | 10 | March 17, 2025 | The Magic of the Whale. | |
 
-Updates (including labs and field trips) will be posted here and announced via email as they arise.
