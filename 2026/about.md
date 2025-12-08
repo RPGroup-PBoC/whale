@@ -29,5 +29,6 @@ Questions we'll consider include:
 
 We meet once per week for one hour of discussion and reading, plus additional field trips and lab sessions.
 Up to 15 students.
-There is no regularly-scheduled homework, but **attendance is absolutely mandatory.**
+There are no problem sets, but we will usually assign a reading ahead of each class.
+**Attendance is absolutely mandatory.**
 If that's not your style, or if you anticipate having a recurring scheduling conflict, **please drop the class to make room for someone else.**

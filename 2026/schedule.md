@@ -9,7 +9,7 @@ permalink: /2026/schedule
 We meet once per week on Tuesdays from 12pm-1pm in Broad 100.
 Feel free to bring your lunch!
 
-This class is attendance-based — so **attendance is absolutely mandatory!**
+**Attendance is absolutely mandatory.**
 
 | Week | Date | Topic | Notes |
 | -- | -- | -- | -- |
