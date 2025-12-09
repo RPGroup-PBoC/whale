@@ -13,7 +13,7 @@ Feel free to bring your lunch!
 
 | Week | Date | Topic | Notes |
 | -- | -- | -- | -- |
-| 0 | January 8, 2026 | Introduction. | |
+| 0 | January 6, 2026 | Introduction. | |
 | 1 | January 13, 2026 | Guest lecture from [Nick Pyenson](https://en.wikipedia.org/wiki/Nicholas_Pyenson): paleontologist, curator, and author of [Spying on Whales](https://books.google.com/books/about/Spying_on_Whales.html?id=95yaDwAAQBAJ). | |
 | 2 | January 20, 2026 | Who is the Whale? Size, evolution, behavior, migration, _umwelt_. | |
 | 3 | January 27, 2026 | Where did the Leviathan come from? Reflections on the theory of evolution. | |
