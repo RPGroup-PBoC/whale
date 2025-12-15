@@ -7,3 +7,7 @@ permalink: /2026/homework
 # III. Homework
 
 There will be no problem sets, but we'll typically ask that you prepare for class with a short reading assignment, which will be posted here.
+
+| Assignment | Due |
+| -- | -- |
+| [Read](readings.html) Spying on Whales and How to Speak Whale | January 6, 2026 |

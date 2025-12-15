@@ -28,14 +28,14 @@ If you'd like us to add something you think we've missed, let Kian know!
 
 ## Preliminary reading
 
-In December, we assigned Spying on Whales as your reading assignment over winter break.
+In December, we assigned Spying on Whales and How to Speak Whale as your winter break reading assignments.
 Below is a fuller list of highly recommended reading material:
 
 * [Spying on Whales](https://books.google.com/books/about/Spying_on_Whales.html?id=95yaDwAAQBAJ), by Nick Pyenson. The past, present, and future of whales, illuminated by modern DNA science.
 
-* [Among Whales](https://books.google.com/books/about/Among_Whales.html?id=mUESAAAAYAAJ), by Roger Payne. Payne was part of the team that first discovered the structure of whalesong. He was one of the foremost experts on the Southern Right whales of Patagonia, and a close friend of the novelist Cormac McCarthy. This memoir recounts his life in science, and his immersion in the mystery and beauty of nature.
-
 * [How to Speak Whale](https://books.google.com/books/about/How_to_Speak_Whale.html?id=ArNXEAAAQBAJ), by Tom Mustill. How modern science and machine learning are being used to study cetacean communication.
+
+* [Among Whales](https://books.google.com/books/about/Among_Whales.html?id=mUESAAAAYAAJ), by Roger Payne. Payne was part of the team that first discovered the structure of whalesong. He was one of the foremost experts on the Southern Right whales of Patagonia, and a close friend of the novelist Cormac McCarthy. This memoir recounts his life in science, and his immersion in the mystery and beauty of nature.
 
 * [At the Water's Edge](https://books.google.com/books/about/At_the_Water_s_Edge.html?id=fxHrAwAAQBAJ), by Carl Zimmer. A history of two important evolutionary transitions: fins to limbs (our Devonian ancestors arriving on land), and much later, limbs to fins (wherein some mammals returned to the deep).
 
