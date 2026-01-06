@@ -6,7 +6,7 @@ permalink: /2026/schedule
 
 # II. Schedule
 
-We meet once per week on Tuesdays from 12pm-1pm in Broad 100.
+We meet once per week on Tuesdays from 12pm-12:55pm in Broad 200.
 Feel free to bring your lunch!
 
 **Attendance is absolutely mandatory.**
