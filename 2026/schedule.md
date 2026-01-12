@@ -14,7 +14,7 @@ Feel free to bring your lunch!
 | Week | Date | Topic | Notes |
 | -- | -- | -- | -- |
 | 1 | January 6, 2026 | Meet the Leviathan. | Winter reading assignment due. |
-| 2 | January 14, 2026 | An evening with [Nick Pyenson](https://en.wikipedia.org/wiki/Nicholas_Pyenson): paleontologist, curator, and author of [Spying on Whales](https://books.google.com/books/about/Spying_on_Whales.html?id=95yaDwAAQBAJ). | Special **Wednesday evening** session; exact time tbd. |
+| 2 | January 14, 2026 | An evening with [Nick Pyenson](https://en.wikipedia.org/wiki/Nicholas_Pyenson): paleontologist, curator, and author of [Spying on Whales](https://books.google.com/books/about/Spying_on_Whales.html?id=95yaDwAAQBAJ). | Special session, **Wednesday 6pm**. |
 | 3 | January 20, 2026 | Where did the Leviathan come from? Reflections on evolution. | |
 | 4 | January 27, 2026 | Whales by the Numbers. | |
 | 5 | February 3, 2026 | How do whales work I? Elite diving and myoglobin. | |
